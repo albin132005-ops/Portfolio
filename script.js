@@ -12,7 +12,7 @@ let currentFrame = 0;
 for (let i = 1; i <= frameCount; i++) {
     const img = new Image();
     const num = String(i).padStart(3, "0");
-    img.src = `images/ezgif-frame-${num}.jpg`;
+    img.src = `Image/ezgif-frame-${num}.jpg`;
     images.push(img);
 }
 
