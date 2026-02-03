@@ -31,7 +31,7 @@
     flex-direction: column;
     justify-content:center;
     backdrop-filter: blur(6px);
-    background: rgba(0,0,0,0); /* transparency for readability */
+    background: rgba(0,0,0,0.6); /* transparency for readability */
 }
 
 /* HERO */
